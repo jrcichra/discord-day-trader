@@ -3,7 +3,7 @@ module github.com/jrcichra/discord-day-trader
 go 1.21.0
 
 require (
-	github.com/bwmarrin/discordgo v0.20.3
+	github.com/bwmarrin/discordgo v0.29.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/go-sql-driver/mysql v1.9.3
 	github.com/piquette/finance-go v1.0.0
